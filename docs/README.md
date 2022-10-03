@@ -2,7 +2,7 @@
 
 Grilla interactiva que cambiará un orden
 
-
+![special-diagramation](https://user-images.githubusercontent.com/84733911/193510445-5c95e942-e0dc-49e2-83c7-1b556f9fc938.png)
 
 ## Configuración
 
