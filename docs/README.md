@@ -1,4 +1,4 @@
-# Special-diagramation
+# Diagramación especial
 
 Grilla interactiva que cambiará un orden
 
